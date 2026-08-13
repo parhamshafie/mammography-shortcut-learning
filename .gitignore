@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+outputs/
+checkpoints/
+*.pth
+*.tar
+*.log
+.DS_Store
